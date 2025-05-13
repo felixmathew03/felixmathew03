@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=felixmathew03&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=felixmathew03&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=felixmathew03&show_icons=true&theme=gruvbox&hide_title=true)
+
