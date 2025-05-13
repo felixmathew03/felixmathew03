@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=felixmathew03&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnDoe&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixmathew03&layout=compact&theme=tokyonight)
 
 
